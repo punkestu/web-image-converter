@@ -1,0 +1,6 @@
+{
+  "name": "PixelShift - In-Browser Image Converter & Compressor",
+  "description": "Convert images between PNG, JPEG, WebP, and AVIF directly in your browser with advanced compression, drag-and-drop, and batch export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
